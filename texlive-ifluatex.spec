@@ -1,3 +1,9 @@
+# revision 22180
+# category Package
+# catalog-ctan /macros/latex/contrib/oberdiek/ifluatex.dtx
+# catalog-date 2010-03-04 00:36:20 +0100
+# catalog-license lppl
+# catalog-version 1.3
 Name:		texlive-ifluatex
 Version:	1.3
 Release:	1
@@ -44,6 +50,7 @@ LaTeX. The package is part of the oberdiek bundle.
 %doc %{_texmfdistdir}/doc/latex/oberdiek/test/ifluatex-test3.tex
 #- source
 %doc %{_texmfdistdir}/source/latex/oberdiek/ifluatex.dtx
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -54,3 +61,5 @@ LaTeX. The package is part of the oberdiek bundle.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
