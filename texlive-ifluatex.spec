@@ -1,12 +1,12 @@
-# revision 26177
+# revision 26725
 # category Package
 # catalog-ctan /macros/latex/contrib/oberdiek/ifluatex.dtx
-# catalog-date 2012-03-06 15:23:45 +0100
+# catalog-date 2012-05-29 15:13:53 +0200
 # catalog-license lppl1.3
 # catalog-version 1.3
 Name:		texlive-ifluatex
 Version:	1.3
-Release:	3
+Release:	4
 Summary:	Provides the \ifluatex switch
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/oberdiek/ifluatex.dtx
