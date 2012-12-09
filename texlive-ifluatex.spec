@@ -51,3 +51,25 @@ LaTeX. The package is part of the oberdiek bundle.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Aug 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-4
++ Revision: 812305
+- Update to latest release.
+
+* Mon Jun 11 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-3
++ Revision: 804850
+- Update to latest release.
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-2
++ Revision: 752691
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.3-1
++ Revision: 718697
+- texlive-ifluatex
+- texlive-ifluatex
+- texlive-ifluatex
+- texlive-ifluatex
+
