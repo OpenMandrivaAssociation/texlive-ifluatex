@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.3
 Name:		texlive-ifluatex
-Version:	1.3
-Release:	12
+Version:	1.4
+Release:	1
 Summary:	Provides the \ifluatex switch
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/oberdiek/ifluatex.dtx
