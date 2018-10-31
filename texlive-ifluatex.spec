@@ -6,7 +6,7 @@
 # catalog-version 1.3
 Name:		texlive-ifluatex
 Version:	1.4
-Release:	1
+Release:	2
 Summary:	Provides the \ifluatex switch
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/oberdiek/ifluatex.dtx
