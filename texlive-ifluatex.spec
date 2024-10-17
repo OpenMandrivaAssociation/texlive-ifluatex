@@ -9,7 +9,7 @@ Version:	1.4
 Release:	3
 Summary:	Provides the \ifluatex switch
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/oberdiek/ifluatex.dtx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/oberdiek/ifluatex.dtx
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ifluatex.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ifluatex.doc.tar.xz
